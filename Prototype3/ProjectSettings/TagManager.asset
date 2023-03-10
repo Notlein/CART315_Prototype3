@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - DARig
+  - monster
+  - ground
+  - platform
   layers:
   - Default
   - TransparentFX
@@ -38,6 +42,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Back
+    uniqueID: 809933277
+    locked: 0
+  - name: Background
+    uniqueID: 1567336781
+    locked: 0
+  - name: Main
+    uniqueID: 2353380841
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2048172575
     locked: 0
